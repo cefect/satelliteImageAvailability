@@ -1,0 +1,15 @@
+name: satellite-image-availability
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - earthengine-api
+  - geopandas
+  - ipykernel
+  - matplotlib
+  - nbconvert
+  - notebook
+  - numpy
+  - pandas
+  - requests
+  - shapely
